@@ -1,1 +1,7 @@
-[]
+{
+  usuario,
+  ubicacion,
+  descripcion,
+  fecha,
+  vip
+}
